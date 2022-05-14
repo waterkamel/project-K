@@ -1,0 +1,1 @@
+The project is a new version of my personal portfolio.
